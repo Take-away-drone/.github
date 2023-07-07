@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/Take-away-drone/.github/main/TAD%20LOGO.svg)
+![Logo]((https://raw.githubusercontent.com/Take-away-drone/.github/7f0449ae111bc53bd8600c033d1feadcea09d1bb/TAD%20LOGO.svg))
 
 # Take Away Drone
 
