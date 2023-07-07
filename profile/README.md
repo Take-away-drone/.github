@@ -1,4 +1,4 @@
-![Logo]([https://github.com/Take-away-drone](https://raw.githubusercontent.com/Take-away-drone/.github/main/TAD%20LOGO.png))
+![Logo]([https://raw.githubusercontent.com/Take-away-drone/.github/main/TAD%20LOGO.png](https://raw.githubusercontent.com/Take-away-drone/.github/main/TAD%20LOGO.png))
 
 # Take Away Drone
 The Take Away Drone initiative is a collaborative effort between three students who aim to revolutionize the manner in which trash is collected in the future.
